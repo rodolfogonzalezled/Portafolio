@@ -1,5 +1,5 @@
 
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
 
 
@@ -14,6 +14,6 @@
 
 ## Hecho por:
 
-###Rodolfo Gonzalez
+### Rodolfo Gonzalez
 
 ### Linkedin: https://www.linkedin.com/in/rodolfo-jose-gonzalez-gomez-aa80b6131
